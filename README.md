@@ -1,9 +1,9 @@
 ### Hi there 👋
 
- I am Petter Hersinger, a Systems Science student at Umeå University. 
+ I am Petter Hersinger, a Informatics (Systems Science) student at Umeå University. 
  This year I am taking courses in Database Design (SQL), 
  Object-Oriented Programming (Java), 
- Web Development,
- Software Development,
- Human Computer Interaction,
+ Web Clients (JS, jQuery, HTML & CSS),
+ Software Development (Agile),
+ Human Computer Interaction (Prototyping),
  Project Management 
